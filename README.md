@@ -7,12 +7,24 @@ The experimental setup and data is forked from [WeatherGCNet](https://github.com
 
 ## Training ##
 
+### Dutch Cities ###
 ```
 python train_model.py -dp data/dataset.pkl -e 50 -it 30 -pt 2
 ```
 
+### Danish Cities ###
+```
+python train_model.py -dp data/step1.mat -e 50 
+```
+
 ## Testing ##
 
+### Dutch Cities ###
 ```
 python test_model.py -dp data/dataset.pkl -it 30 -pt 2 -mp trained_models/2h_pred_model.pt
+```
+
+### Danish Cities ###
+```
+python test_model.py -dp data/step1.mat -mp trained_models/6h_pred_model.pt
 ```
