@@ -41,9 +41,10 @@ python test_model.py -dp data/step1.mat -mp trained_models/6h_pred_model.pt
 ## 🔗 Citation ##
 For citation, please use the bibtex reference:
 
-
+```
 @article{MGAT2021,
   title={Multistream Graph Attention Networksfor Wind Speed Forecasting},
   author={Aykas, Dogan and Mehrkanoon, Siamak},
   year={2021}
 }
+```
