@@ -17,7 +17,7 @@ python train_model.py -dp data/dataset.pkl -e 50 -it 30 -pt 2
 python train_model.py -dp data/step1.mat -e 50 
 ```
 
-## Testing ##
+## 🔍 Testing ##
 
 ### Dutch Cities ###
 ```
@@ -37,3 +37,12 @@ python test_model.py -dp data/step1.mat -mp trained_models/6h_pred_model.pt
 
 ![nl2](https://user-images.githubusercontent.com/38927466/129239241-03e80bf5-1d2b-49c9-8399-c44704a5f773.JPG)
 ![den4](https://user-images.githubusercontent.com/38927466/129239245-cba8b82f-8422-4dab-9f58-eec0558c841e.jpg)
+
+## 🔗 Citation ##
+
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
