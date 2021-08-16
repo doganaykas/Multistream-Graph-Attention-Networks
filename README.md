@@ -5,7 +5,7 @@ The experimental setup and data is forked from [WeatherGCNet](https://github.com
 
 ![gat](https://user-images.githubusercontent.com/38927466/129062241-cd8b1739-0fdc-49c4-9420-e48f8cbbd1b4.jpg)
 
-## Training ##
+## 🖥️ Training ##
 
 ### Dutch Cities ###
 ```
