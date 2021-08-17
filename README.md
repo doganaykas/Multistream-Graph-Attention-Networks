@@ -39,7 +39,7 @@ python test_model.py -dp data/step1.mat -mp trained_models/6h_pred_model.pt
 ![den4](https://user-images.githubusercontent.com/38927466/129239245-cba8b82f-8422-4dab-9f58-eec0558c841e.jpg)
 
 ## 🔗 Citation ##
-For citation, please use the bibtex reference:
+For citation, please use the bibtex reference below:
 
 ```
 @article{MGAT2021,
