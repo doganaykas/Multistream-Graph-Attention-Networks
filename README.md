@@ -45,7 +45,7 @@ For citation, please use the bibtex reference below:
 @article{MGAT2021,
   title={Multistream Graph Attention Networksfor Wind Speed Forecasting},
   author={Aykas, Dogan and Mehrkanoon, Siamak},
-  journal={arXiv preprint arXiv:2108.07063}
+  journal={Accepted for publication in the Proc. of IEEE-SSCI, 2021, arXiv preprint arXiv:2108.07063}
   year={2021}
 }
 ```
